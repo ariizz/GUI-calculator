@@ -34,6 +34,5 @@ This project is licensed under the MIT License — feel free to use, modify, or 
 
 # Interface
 ![Screenshot (18) 2](https://github.com/user-attachments/assets/33de16ec-b6c0-421f-b8e4-75f51fc604ae)
-
-![Calculator interface](Screenshot (18).2.png)
+![Screenshot (18)](https://github.com/user-attachments/assets/8aa66ef7-8b74-4c78-b352-8c49a51f27c2)
 

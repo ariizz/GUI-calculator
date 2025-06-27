@@ -33,6 +33,7 @@ Built with 💻 and ☕ by ariizz.
 This project is licensed under the MIT License — feel free to use, modify, or share it, just give me a shout-out!
 
 # Interface
+![Screenshot (18) 2](https://github.com/user-attachments/assets/33de16ec-b6c0-421f-b8e4-75f51fc604ae)
 
 ![Calculator interface](Screenshot (18).2.png)
 

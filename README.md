@@ -20,11 +20,10 @@ Add scientific functions (like sin, cos, or square root).
 Support keyboard input for faster calculations.
 Make it resizable for different screen sizes.
 
-This project is licensed under the MIT License — feel free to use, modify, or share it, just give me a shout-out!
 
 # 🤝 Connect With Me
 
-Loved this project? Want to chat about coding or collaborate? Find me on LinkedInu or check out my other projects on GitHub. Let’s make more awesome stuff together!
+Loved this project? Want to chat about coding or collaborate? Find me on LinkedIn or check out my other projects on GitHub. Let’s make more awesome stuff together!
 Built with 💻 and ☕ by ariizz.
 
 

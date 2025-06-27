@@ -34,5 +34,5 @@ This project is licensed under the MIT License — feel free to use, modify, or 
 
 # Interface
 
-![Calculator interface]Screenshot (18).2.png
+![Calculator interface](Screenshot (18).2.png)
 

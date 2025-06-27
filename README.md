@@ -27,7 +27,12 @@ This project is licensed under the MIT License — feel free to use, modify, or 
 Loved this project? Want to chat about coding or collaborate? Find me on LinkedInu or check out my other projects on GitHub. Let’s make more awesome stuff together!
 Built with 💻 and ☕ by ariizz.
 
+
 # 📜 License
 
 This project is licensed under the MIT License — feel free to use, modify, or share it, just give me a shout-out!
+
+# Interface
+
+Screenshot(18).2.png
 
